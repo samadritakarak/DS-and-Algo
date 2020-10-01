@@ -16,5 +16,4 @@ Shell sort is a highly efficient sorting algorithm and is based on insertion sor
 ## Topological Sort
 Topological sorting for Directed Acyclic Graph is a linear ordering of vertices such that for every directed edge uv, vertex u comes before v in the ordering.
 
-## Binary Searh 
-It is a way to search in a sorted array 
+
