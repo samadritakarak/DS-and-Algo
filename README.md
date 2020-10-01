@@ -16,5 +16,4 @@ Shell sort is a highly efficient sorting algorithm and is based on insertion sor
 ## Topological Sort
 Topological sorting for Directed Acyclic Graph is a linear ordering of vertices such that for every directed edge uv, vertex u comes before v in the ordering.
 
-## Insertion sort
-Insertion sort is a simple sorting algorithm that works similar to the way you sort playing cards in your hands.
+
